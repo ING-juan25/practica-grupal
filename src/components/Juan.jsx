@@ -1,13 +1,11 @@
 const Juan = () => {
     return (
-      <div>
-        <section>
-          <div>
-            <img src="/public/img/omero.png" alt="" />
-            <h2>Juan Carcamo</h2>
-          </div>
-        </section>
-      </div>
+      <section>
+        <div>
+          <img src="/public/img/omero.png" alt="" />
+          <h2>Juan Carcamo</h2>
+        </div>
+      </section>
     );
 };
 export default Juan;
